@@ -1,0 +1,7 @@
+media/uploads
+
+db.sqlite3
+
+products/migrations
+
+.vscode/
