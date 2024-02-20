@@ -1,5 +1,11 @@
 # Django E-Commerce API
 
+
+## Acknowledgements
+
+Special thanks to [karkhana.io](https://www.karkhana.io) for providing me with the opportunity to work on this assignment.
+
+
 ## Overview
 
 This is a Django-based backend API project serves as the foundation for a basic e-commerce platform. It provides RESTful API endpoints for managing products and cart items.
@@ -34,8 +40,3 @@ This is a Django-based backend API project serves as the foundation for a basic 
 
 - **/products**: Contains Django app for API endpoints.
 - **/media**: Directory for storing uploaded product images.
-
-
-## Acknowledgements
-
-Special thanks to [karkhana.io](https://www.karkhana.io) for providing me with the opportunity to work on this assignment.
