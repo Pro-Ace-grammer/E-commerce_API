@@ -24,11 +24,11 @@ This is a Django-based backend API project serves as the foundation for a basic 
 
 ## API Endpoints
 
-- **GET /products**: Retrieve a list of all products.
-- **GET /products/<id>**: Retrieve details of a specific product.
-- **POST /cart**: Add a product to the cart.
-- **GET /cart**: Retrieve cart items.
-- **DELETE /cart/<id>**: Remove a specific item from the cart.
+- `GET /products`: Retrieve a list of all products.
+- `GET /products/<id>`: Retrieve details of a specific product.
+- `POST /cart`: Add a product to the cart.
+- `GET /cart`: Retrieve cart items.
+- `DELETE /cart/<id>`: Remove a specific item from the cart.
 
 ## Technologies Used
 
